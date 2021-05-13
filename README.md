@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ### My goals and info: <br>
 - 🔭 I’m currently working on the SIXERR project
-- 🌱 I’m currently learning Laravel (PHP), Java, Python
+- 🌱 I’m currently learning Laravel (PHP)
 - 👯 I’m looking to collaborate on a 3D game engine and game
 - 🤔 I’m looking for help with my SIXERR Laravel project
 - 💬 Ask me about why I am here
