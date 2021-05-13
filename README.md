@@ -6,17 +6,19 @@
 Here are some ideas to get you started:
 -->
 
-### How many people looked at this before? <br>
+### How many people looked suffered before? <br>
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JCOCA-Tech)
 <br>
+
+### My Goals and 
 - 🔭 I’m currently working on Sixerr
-- 🌱 I’m currently learning Java, Laravel,
-- 👯 I’m looking to collaborate on coding a game engine
-- 🤔 I’m looking for help with my SIXERR project
-- 💬 Ask me about whatever really
-- 📫 How to reach me: contact me directly on github
-- 😄 Pronouns: Apache Attack Helicopter
-- ⚡ Fun fact: Blue eyes aren't really blue
+- 🌱 I’m currently learning Laravel (PHP), Java, Python
+- 👯 I’m looking to collaborate on a 3D game engine and game
+- 🤔 I’m looking for help with my SIXERR Laravel project
+- 💬 Ask me about why I am here
+- 📫 How to reach me: contact me on github
+- ⚡ Fun fact: Blue eyes aren't really blue. It's just that the other light doesn't get reflected as much. (Im not a doctor)
 <br>
 
 ### What am I good at?<br>
