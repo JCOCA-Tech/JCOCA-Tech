@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my SIXERR Laravel project
 - 💬 Ask me about why I am here
 - 📫 How to reach me: contact me on github
-- ⚡ Fun fact: Blue eyes aren't really blue. They look blue because light with a wavelenght of 450nm - 495nm are better reflected. (I am not a doctor)
+- ⚡ Fun fact: Blue eyes aren't blue. They look blue because light with a wavelenght of 450nm - 495nm are better reflected. (I am not a doctor)
 
 ### How many people have suffered before? <br>
 
