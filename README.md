@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-How many people looked at this before? ![Profile View Counter](https://komarev.com/ghpvc/?username=JCOCA-Tech)
-
+### How many people looked at this before? <br>
+![Profile View Counter](https://komarev.com/ghpvc/?username=JCOCA-Tech)
+<br>
 - 🔭 I’m currently working on Sixerr
 - 🌱 I’m currently learning Java, Laravel,
 - 👯 I’m looking to collaborate on coding a game engine
@@ -16,9 +17,19 @@ How many people looked at this before? ![Profile View Counter](https://komarev.c
 - 📫 How to reach me: contact me directly on github
 - 😄 Pronouns: Apache Attack Helicopter
 - ⚡ Fun fact: Blue eyes aren't really blue
+<br>
 
-What im good at?<br>
+### What am I good at?<br>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JCOCA-Tech&theme=blue-green)
+<br>
 
-And Another one:<br>
+### My github rating:<br>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JCOCA-Tech&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<br>
+
+### And Another one:<br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<br>
