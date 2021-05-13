@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about why I am here
 - 📫 How to reach me: contact me on github
 - ⚡ Fun fact: Blue eyes aren't really blue. It's just that the other light doesn't get reflected as much. (Im not a doctor)
-<br>
 
 ### How many people have suffered before? <br>
 
