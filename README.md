@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-### How many people looked suffered before? <br>
+### How many people have suffered before? <br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JCOCA-Tech)
 <br>
 
-### My Goals and 
+### My goals and info <br>
 - 🔭 I’m currently working on Sixerr
 - 🌱 I’m currently learning Laravel (PHP), Java, Python
 - 👯 I’m looking to collaborate on a 3D game engine and game
@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Blue eyes aren't really blue. It's just that the other light doesn't get reflected as much. (Im not a doctor)
 <br>
 
-### What am I good at?<br>
+### What Language am I using most?<br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JCOCA-Tech&theme=blue-green)
 <br>
 
-### My github rating:<br>
+### GitHub rating:<br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JCOCA-Tech&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <br>
