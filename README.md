@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a 3D game engine and game
 - 🤔 I’m looking for help with my SIXERR Laravel project
 - 💬 Ask me about why I am here
-- 📫 How to reach me: contact me via JCOCA-Tech@github.com
+- 📫 How to reach me: contact me via jcoca@pm.me
 - ⚡ Fun fact: Blue eyes aren't blue. They look blue because light with a wavelenght of 450nm - 495nm are better reflected. (I != doctor)
 
 ### How many people have suffered before? <br>
