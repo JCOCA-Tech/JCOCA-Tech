@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <br>
 
 ### What Language am I using most?<br>
-Python, Shell, Java
+- Python
+- Shell
+- Java
 
 ### GitHub rating:<br>
 
