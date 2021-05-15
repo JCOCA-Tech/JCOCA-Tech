@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <br>
 
 ### What Language am I using most?<br>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JCOCA-Tech&theme=blue-green)
-<br>
+Python, Shell, Java
 
 ### GitHub rating:<br>
 
