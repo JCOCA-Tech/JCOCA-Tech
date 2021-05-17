@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Python ( For most useful stuff, libs: TensorFlow, rpi-gpio, matplotlob, pandas, tkinter, scipy )
 - SHELL ( simple tools, utilities and scripts )
 - SQL ( For relational databases, MySQL on MariaDB )
-- Java ( Our class is restrictet to use it for non-web-based programming ( use of other languages prohibitet ). , libs: JFX, JDBC )
+- Java ( School language ( non-web-based programming, use of other languages prohibitet... ). , libs: JFX, JDBC )
 - PHP ( With the Laravel framework )
 - C++ ( Not proficient ( I'm a newcomer ) , libs: gl, glfw, glu, glew )
 
