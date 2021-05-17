@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <br>
 
 ### What Languages am I using?<br>
-- Python ( For most useful stuff, libs: TensorFlow, rpi-gpio, matplotlob, pandas, tkinter, scipy )
-- SHELL ( simple tools, utilities and scripts )
-- SQL ( For relational databases, MySQL on MariaDB )
-- Java ( School language ( non-web-based programming, use of other languages prohibitet... ). , libs: JFX, JDBC )
-- PHP ( With the Laravel framework )
-- C++ ( Not proficient ( I'm a newcomer ) , libs: gl, glfw, glu, glew )
+- <b>Python</b> ( For mostly personal stuff, libs: TensorFlow, rpi-gpio, matplotlob, pandas, tkinter, scipy )
+- <b>SHELL</b> ( simple tools, utilities and scripts )
+- <b>SQL</b> ( For relational databases, MySQL on MariaDB )
+- <b>Java</b> ( School language non-web-based programming. Other languages prohibitet... , libs: JFX, JDBC )
+- <b>PHP</b> ( With the Laravel framework )
+- <b>C++</b> ( Not proficient ( I'm a newcomer ) , libs: gl, glfw, glu, glew )
 
 ### GitHub rating:<br>
 
