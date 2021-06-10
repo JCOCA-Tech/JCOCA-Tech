@@ -8,13 +8,17 @@ Here are some ideas to get you started:
 - 📫 Contact: [jcoca@pm.me](mailto:jcoca@pm.me)
 - 👯 Colaboration: I'm looking help on a [3D game engine](https://en.wikipedia.org/wiki/Game_engine)
 
-### What Languages am I using?<br>
+### What tools am I using?<br>
 - Java
 - SHELL
 - Python
 - MySQL
 - PHP
-- C++<br>
+- C++
+- VSCode
+- Linux
+- WIN 10
+- MacOS<br>
 
 ### And here's a joke:<br>
 
