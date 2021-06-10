@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - Java
 - Python
 - C++
-- PHP, HTML, CSS, JavaScript
+- PHP, HTML, CSS, JavaScript (+Laravel 8 framework)
 - MySQL
 - SHELL (BASH)
 - VSCode
