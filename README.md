@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - <b>SQL</b> ( For relational databases, MySQL on MariaDB )
 - <b>Java</b> ( School language non-web-based programming. Other languages prohibitet... , libs: JFX, JDBC )
 - <b>PHP</b> ( With the Laravel framework )
-- <b>C++</b> ( Newcomer ) , libraries: gl, glfw, glu, glew )
+- <b>C++</b> ( Newcomer, libraries: [ gl, glfw, glu, glew ])
 
 ### GitHub rating:<br>
 
