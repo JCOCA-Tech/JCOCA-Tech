@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 -->
 
 ### Information about me: <br>
-- 👯 I’m looking to collaborate on a [3D game engine](https://en.wikipedia.org/wiki/Game_engine) and game
-- 📫 How to reach me: contact me via [jcoca@pm.me](mailto:jcoca@pm.me)
+- 📫 contact: [jcoca@pm.me](mailto:jcoca@pm.me)
+- 👯 Colaboration: I'm looking help on a [3D game engine](https://en.wikipedia.org/wiki/Game_engine) and game
 
 ### What Languages am I using?<br>
 - Java
