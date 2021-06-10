@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - SHELL
 - Python
 - MySQL
-- PHP
+- PHP, HTML, CSS, JavaScript
 - C++
 - VSCode
 - Linux
