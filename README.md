@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - Python
 - MySQL
 - PHP
-- C++
+- C++<br>
 
 ### And here's a little joke:<br>
 
