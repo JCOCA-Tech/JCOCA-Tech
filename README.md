@@ -10,15 +10,15 @@ Here are some ideas to get you started:
 
 ### What tools am I using?<br>
 - Java
-- SHELL
 - Python
-- MySQL
-- PHP, HTML, CSS, JavaScript
 - C++
+- PHP, HTML, CSS, JavaScript
+- MySQL
+- SHELL (BASH)
 - VSCode
-- Linux
-- WIN 10
-- MacOS<br>
+- Linux (Debian,RHEL,Fedora,Ubuntu,CentOS)
+- WIN 10 (SE, Pro)
+- MacOS (catalina)<br>
 
 ### And here's a joke:<br>
 
