@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ### Information about me: <br>
 - 📫 contact: [jcoca@pm.me](mailto:jcoca@pm.me)
-- 👯 Colaboration: I'm looking help on a [3D game engine](https://en.wikipedia.org/wiki/Game_engine) and game
+- 👯 Colaboration: I'm looking help on a [3D game engine](https://en.wikipedia.org/wiki/Game_engine)
 
 ### What Languages am I using?<br>
 - Java
