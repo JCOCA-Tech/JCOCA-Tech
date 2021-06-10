@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - PHP
 - C++<br>
 
-### And here's a little joke:<br>
+### And here's a joke:<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
