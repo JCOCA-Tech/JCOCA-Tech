@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ### And here's a little joke:<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br>
 
 ### How many people have suffered before? <br>
 
