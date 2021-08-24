@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ### Here's a really good Joke! :<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### How many people have suffered before? : <br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JCOCA-Tech)
