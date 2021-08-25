@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 📫 Contact: [jcoca@pm.me](mailto:jcoca@pm.me)
 
 ### Areas of Interest :<br>
-- Graphics
-- Machine Learning
-- Problem Solving
-- Optimization
+- Graphics
+- Machine Learning
+- Problem Solving
+- Optimization
 
 ### Stack :<br>
 - Java
