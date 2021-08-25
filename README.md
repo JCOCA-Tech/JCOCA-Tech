@@ -4,8 +4,14 @@
 Here are some ideas to get you started:
 -->
 
-### Important Notes : <br>
+### Important Notes :<br>
 - 📫 Contact: [jcoca@pm.me](mailto:jcoca@pm.me)
+
+### Areas of Interest :<br>
+- Graphics
+- Machine Learning
+- Problem Solving
+- Optimization
 
 ### Stack :<br>
 - Java
@@ -20,7 +26,8 @@ Here are some ideas to get you started:
 ### Here's a really great Joke! :<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-### How many people have suffered before? : <br>
+### How many people have suffered before? :<br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JCOCA-Tech)
 <br>
+##
