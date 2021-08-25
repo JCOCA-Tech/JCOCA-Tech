@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - Shell (BASH)
 - Linux (Debian,RHEL,Fedora,Ubuntu,CentOS) / Windows 10 (Pro, Home) / MacOS X
 
-### Here's a really good Joke! :<br>
+### Here's a really great Joke! :<br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ### How many people have suffered before? : <br>
