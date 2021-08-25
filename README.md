@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - C++
 - Python
 - PHP, HTML, CSS, JavaScript
-- MySQL
+- SQL
 - Shell (BASH)
-- VSCode
 - Linux (Debian,RHEL,Fedora,Ubuntu,CentOS) / WIN10 (Pro, Home) / MacOSX
 
 ### Here's a really good Joke! :<br>
