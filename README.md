@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - PHP, HTML, CSS, JavaScript
 - SQL
 - Shell (BASH)
-- Linux (Debian,RHEL,Fedora,Ubuntu,CentOS) / WIN10 (Pro, Home) / MacOSX
+- Linux (Debian,RHEL,Fedora,Ubuntu,CentOS) / Windows 10 (Pro, Home) / MacOS X
 
 ### Here's a really good Joke! :<br>
 
