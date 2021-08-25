@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 
 ### Important Notes : <br>
 - 📫 Contact: [jcoca@pm.me](mailto:jcoca@pm.me)
-- 👯 Colaboration: I'm happy to colaborate on a [game engine](https://en.wikipedia.org/wiki/Game_engine)
 
 ### Stack :<br>
 - Java
