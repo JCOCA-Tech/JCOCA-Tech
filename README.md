@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 
 ### Stack :<br>
 - Java
-- C, C++
+- C
+- C++
 - Python
 - PHP, HTML, CSS, JavaScript
 - MySQL
