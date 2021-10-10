@@ -4,8 +4,6 @@
 
 ### Areas of Interest :<br>
 - Graphics
-- Machine Learning
+- Machine Learning (Keras, TensorFlow)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JCOCA-Tech)
-<br>
-##
