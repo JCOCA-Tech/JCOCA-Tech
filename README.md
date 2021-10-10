@@ -6,11 +6,6 @@
 - Graphics
 - Machine Learning
 
-### Here's a great Joke :<br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JCOCA-Tech)
 <br>
 ##
