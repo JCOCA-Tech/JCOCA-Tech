@@ -1,6 +1,3 @@
-### Information :<br>
-- 📫 Contact: [jcoca@pm.me](mailto:jcoca@pm.me)
-
 ### Areas of Interest :<br>
 - Machine Learning (Keras, TensorFlow)
 
